@@ -26,7 +26,7 @@ def using_concat (arr1, arr2)
   arr1.concat(arr2)
 end
 
-def sing_insert (arr, element)
+def using_insert (arr, element)
   arr.insert(element)
 end
 
